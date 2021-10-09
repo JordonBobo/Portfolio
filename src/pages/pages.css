@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+.background {
+  background: darkBlue;
+  color: lightgray;
+  padding: 5px;
+}
+
+.homepage {
+  background-image: url("https://live.staticflickr.com/65535/51220368251_801afe4e07_k.jpg");
+  /* photo by littlekoo https://littlekoo.wordpress.com/2013/04/12/the-karst-hills-of-yangshuo-and-guilin/ */
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.profile {
+  margin: 15px;
+}
+
+.red {
+  color: rgb(255, 72, 72);
+}
+
+.left {
+  float: left;
+  margin: rem;
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.myFont {
+  font-family: 'Roboto', Verdana, sans-serif;
+}
+
+.homeText {
+  color: rgb(196, 95, 0);
+}

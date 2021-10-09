@@ -1,0 +1,53 @@
+{
+"projects": [
+    {
+        "imgUrl": "https://live.staticflickr.com/65535/51194437431_f870d87d09_o.png",
+        "imgAlt": "image of the envelope used in the envelopes app",
+        "name": "Envelopes",
+        "description": "Collaboration with 2 of the same people as the Middle Earth Supplier. A budgeting app that allows users to create budget categories and then add or reduce money from each category. My contributions were mostly focused on the back-end. May 2021",
+        "link": "https://cash-envelopes.herokuapp.com/",
+        "link2": "https://github.com/gerrissgailey/envelopes"
+    },
+    {
+        "imgUrl": "https://live.staticflickr.com/65535/51206882583_bf823e3aa7_o.jpg",
+        "imgAlt": "homepage screenshot of middle earth supplier",
+        "name": "Middle Earth Supplier",
+        "description": "Collaboration with 3 other programmers to build an online retail website with fictional products to demonstrate functionality and style. My contributions were mostly focused on the front-end/UX UI.  March 2021",
+        "link": "https://middleearthsupplier.herokuapp.com/",
+        "link2": "https://github.com/JordonBobo/MiddleEarthSupplier"
+    },
+    {
+        "imgUrl": "https://live.staticflickr.com/65535/51205966412_1f6a6c1522_o.jpg",
+        "imgAlt": "screenshot of the burger app home ppage",
+        "name": "Bob's Burger of the Day",
+        "description": "A solo full stack project. Users can input burger of the day suggestions which get saved in a MySQL database. Multiple routes were built to handle user input. April 2021",
+        "link": "https://vast-headland-51498.herokuapp.com/",
+        "link2": "https://github.com/JordonBobo/Burger"
+    },
+    {
+        "imgUrl": "https://live.staticflickr.com/65535/51207744265_871da8bbb1_o.jpg",
+        "imgAlt": "Image of the homepage from the alpha investments website",
+        "name": "Alpha Investments",
+        "description": "A collaborative project with 4 other developers. An Investing website that displays company information, stock performance, and recent news. My contributions were manipulating api data to be displayed and coordinating the other elements into a single working page. February 2021",
+        "link": "https://jordonbobo.github.io/AlphaInvestments/",
+        "link2": "https://github.com/JordonBobo/AlphaInvestments"
+    },
+    {
+        "imgUrl": "https://live.staticflickr.com/65535/51207744290_c05296722d_o.jpg",
+        "imgAlt": "exotic travel image",
+        "name": "Travel Quiz",
+        "description": "An example of a refactored version of the JS Quiz. Built as an example of what can be done with the starter code in less than a few hours. Takes user input to make travel destination suggestions. January 2021",
+        "link": "https://jordonbobo.github.io/JSQuiz02-Travel/",
+        "link2": "https://github.com/JordonBobo/JSQuiz02-Travel"
+    },
+    {
+        "imgUrl": "https://live.staticflickr.com/65535/51207744255_a3d3667cfc_o.jpg",
+        "imgAlt": "image of a construction site",
+        "name": "JS Quiz",
+        "description": "Foundation code for making quizzes. Can be easily refactored to meet a wide variety of quiz types. One of the first sites I ever made. It has a variety of different java script elements to make refactoring different types of quizzes possible. January 2021",
+        "link": "https://jordonbobo.github.io/JSQuiz01/",
+        "link2": "https://github.com/JordonBobo/JSQuiz01"
+    }
+
+]
+}
