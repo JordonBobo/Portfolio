@@ -12,7 +12,7 @@ function About() {
       <div className="container profile">
         <div className="profile left col-sm-6">
           <img src="https://live.staticflickr.com/65535/51207744275_469179bc0b_b.jpg" 
-          alt="Image of Jordan in Yanghuo China, 2018"
+          alt="Jordan in Yanghuo China, 2018"
           className="fullWidth"/>
         </div>
       </div>
@@ -43,7 +43,7 @@ networks, as well as assisting employees and clients with our company’s softwa
 
 In order to improve my skills and continue to pivot my career toward software and coding, I 
 am currently engaged in the University of Utah’s &nbsp;
-<a href="https://continue.utah.edu/proed/academy/certificate/web-coding-bootcamp" target="_blank" className="red"> 
+<a href="https://continue.utah.edu/proed/academy/certificate/web-coding-bootcamp" target="_blank" rel="noreferrer" className="red"> 
 Coding BootCamp</a> &nbsp; in order to advance my skills as a developer. Currently I am focusing on 
 learning full-stack in order to better understand the entire scope of software development. In the 
 future however, I plan on focusing more on back-end programming, data analystics, and data science. <br />

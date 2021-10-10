@@ -13,7 +13,7 @@ function Navbar() {
       <div>
         <ul className="navbar-nav ">
           <li className="nav-item">
-            <Link to="/" className= "nav-link active text-dark hover">
+            <Link to="/Portfolio" className= "nav-link active text-dark hover">
               Home
             </Link>
           </li>
