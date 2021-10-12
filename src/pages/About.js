@@ -59,7 +59,7 @@ a more valuable asset to my team and to my own career. Although very well rounde
 abilities, my coding skills were mostly self taught and out of date. I knew coding would 
 have the most value to my long term goals and last fall I enrolled in the University of Utah’s &nbsp;
 <a href="https://continue.utah.edu/proed/academy/certificate/web-coding-bootcamp" target="_blank" rel="noreferrer" className="red"> 
-Coding BootCamp</a> &nbsp; <br /> <br /> to significantly improve my coding skills.
+Coding BootCamp</a> &nbsp; to significantly improve my coding skills. <br /> <br />
 
 My intention was to become a more valuable member of my team and 
 to use those skills to take on additional responsibilities and advance my position 
@@ -79,7 +79,7 @@ As I continue to develop and improve my skills, my goal is to utilize my diverse
 and education toward every project I work on and every team I work with. I am currently looking 
 for new opportunities and am open to working for any company or organization that focuses on 
 collaboration, innovation, and the improvement of our community. 
-
+<br /> <br />
 
  <br />
         </p>

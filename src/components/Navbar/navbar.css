@@ -1,12 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
 
 
+
+
 nav.navbar.navbar-default {
   margin-bottom: -100px;
 }
 
 .darkBlue {
   color: darkblue;
+  padding: 0px;
 }
 
 .hover:hover {

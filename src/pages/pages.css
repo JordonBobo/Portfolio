@@ -7,10 +7,12 @@
   padding: 5px;
 }
 
+
 .homepage {
   background-image: url("https://live.staticflickr.com/65535/51220368251_801afe4e07_k.jpg");
-  /* photo by littlekoo https://littlekoo.wordpress.com/2013/04/12/the-karst-hills-of-yangshuo-and-guilin/ */
-  height: 100%;
+          /* photo by littlekoo https://littlekoo.wordpress.com/2013/04/12/the-karst-hills-of-yangshuo-and-guilin/ */
+  height: auto;
+  width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
 }

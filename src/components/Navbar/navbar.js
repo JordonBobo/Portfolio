@@ -18,8 +18,8 @@ function Navbar() {
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/about" className= "nav-link active text-dark hover">
-              About
+            <Link to="/bio" className= "nav-link active text-dark hover">
+              Bio
             </Link>
           </li>
           <li className="nav-item">
